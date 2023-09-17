@@ -7,4 +7,6 @@ Instructions:
 6. Open the target folder.
 7. Press and hold the Shift button then right click on an empty space in the target folder.
 8. Click on "Open command window here".
-9. Type "java -jar Exer4-0.0.jar" and press enter.
+9. Type "java -jar Exer4-0.0.jar" and press enter to run the JAR file or you can also 
+indicate the name of the text file after the JAR file name and a space 
+(i.e. java -jar Exer4-0.0.jar file.txt).
